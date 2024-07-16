@@ -3,7 +3,7 @@ This is a robust and user-friendly desktop application designed to streamline th
 Employee Management System
  
 # Features
-## -- Intuitive GUI:
+## 1 -- Intuitive GUI:
 
 The application features a clean and intuitive interface created with Tkinter, making it easy for users to navigate and perform tasks.
 Key functionalities are accessible through clearly labeled buttons and menus, ensuring a smooth user experience.
@@ -14,13 +14,13 @@ Edit existing employee information to keep records up-to-date.
 Delete employee records when they are no longer needed.
 and other useful Operations
 
-## --Database Integration:
+## 2 -- Database Integration:
 
 Uses SQLite3, a lightweight and efficient database, to store and manage employee data.
 Supports operations like creating, reading, updating, and deleting (CRUD) records directly from the database.
 Ensures data integrity and security with reliable database transactions.
  
-## --Technical Details:
+## 3 -- Technical Details:
 Language: Python
 GUI Library: Tkinter
 Database: SQLite3

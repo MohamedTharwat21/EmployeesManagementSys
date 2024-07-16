@@ -25,8 +25,22 @@ Language: Python
 GUI Library: Tkinter
 Database: SQLite3
 
+## The full UI 
+![image](https://github.com/user-attachments/assets/29046996-7c4f-40a7-ab27-bfa0d5779b76)
 
 
 ## By clicking on Hide button
 ![image](https://github.com/user-attachments/assets/09e3c06d-0471-4259-aafc-7e1c88a1ed66)
+
+
+## When you Add New Employee
+![image](https://github.com/user-attachments/assets/763abbf8-b3b4-4c3b-9145-7ee65336199b)
+
+
+## 
+![image](https://github.com/user-attachments/assets/f428cf6b-af6a-4721-ace4-801faafa41ec)
+
+
+##
+![image](https://github.com/user-attachments/assets/7d1ad6c1-68c9-49a2-b17c-a018d0e50415)
 

@@ -3,7 +3,7 @@ This is a robust and user-friendly desktop application designed to streamline th
 Employee Management System
  
 # Features:
--- Intuitive GUI:
+### -- Intuitive GUI:
 
 The application features a clean and intuitive interface created with Tkinter, making it easy for users to navigate and perform tasks.
 Key functionalities are accessible through clearly labeled buttons and menus, ensuring a smooth user experience.

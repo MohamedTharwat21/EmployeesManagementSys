@@ -24,3 +24,9 @@ Ensures data integrity and security with reliable database transactions.
 Language: Python
 GUI Library: Tkinter
 Database: SQLite3
+
+
+
+## By clicking on Hide button
+![image](https://github.com/user-attachments/assets/09e3c06d-0471-4259-aafc-7e1c88a1ed66)
+

@@ -14,13 +14,13 @@ Edit existing employee information to keep records up-to-date.
 Delete employee records when they are no longer needed.
 and other useful Operations
 
---Database Integration:
+### --Database Integration:
 
 Uses SQLite3, a lightweight and efficient database, to store and manage employee data.
 Supports operations like creating, reading, updating, and deleting (CRUD) records directly from the database.
 Ensures data integrity and security with reliable database transactions.
  
---Technical Details:
+### --Technical Details:
 Language: Python
 GUI Library: Tkinter
 Database: SQLite3
@@ -37,10 +37,7 @@ Database: SQLite3
 ![image](https://github.com/user-attachments/assets/763abbf8-b3b4-4c3b-9145-7ee65336199b)
 
 
-## 
+## When you forget or try not to fill any field 
 ![image](https://github.com/user-attachments/assets/f428cf6b-af6a-4721-ace4-801faafa41ec)
 
-
-##
-![image](https://github.com/user-attachments/assets/7d1ad6c1-68c9-49a2-b17c-a018d0e50415)
 
